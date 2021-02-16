@@ -1,0 +1,32 @@
+.titulo
+{
+    text-align: center;
+}
+table, th ,td
+
+{   
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px groove;
+    border-width: medium;
+    border-collapse: collapse;
+    background-color: cadetblue;
+}
+.imagem-spmkt
+{
+    border: 10px solid grey;
+    width: 600px;
+    height: 500px;
+}
+#allcont
+{
+    text-align: center;
+}
+#middle
+{
+    text-align: center;
+}
+#background
+{
+    text-align: center;
+}
