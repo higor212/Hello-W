@@ -1,0 +1,31 @@
+.top
+{
+    text-align: center;
+    border: 3px groove green;
+    font: Arial, Helvetica, sans-serif;
+}
+section
+{
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+}
+footer
+{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background: rgb(252, 250, 250);
+}
+aside
+{
+    text-align: right;
+    height: 2px;
+    background: rgb(1, 100, 62);
+    border: 2px solid;
+    
+}
+a
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    background-color: gray;
+}
