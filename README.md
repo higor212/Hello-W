@@ -2,5 +2,6 @@
 
  Repositório de Estudos
  
- Repositório criado durante uma aula ao vivo do CursoEmVideo!
+Pretendo colocar aqui todo o meu progresso desenvolvido até então no quesito HTML5, CSS3, Javascript, 
+entre outras linguagens que eu for aprendendo.
  
