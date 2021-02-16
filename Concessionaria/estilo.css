@@ -1,0 +1,33 @@
+.titulo
+{
+    border: 5px groove black;
+    background-color: rgb(255, 159, 14);
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.subtitulo
+{
+    border: 5px groove black;
+    background-color: rgb(255, 159, 14);
+}
+.subtitulo2
+{
+    border: 5px groove black;
+    background-color: rgb(255, 159, 14);
+}
+.textos
+{
+    font-family: 'Courier New', Courier, monospace;
+}
+.all
+{
+    text-align: center;
+    background-color: rgb(122, 122, 121);
+}
+
+.sobren
+{
+    text-align: center;
+    border: 5px groove black;
+    font-size: 16px;
+}
