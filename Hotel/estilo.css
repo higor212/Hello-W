@@ -1,0 +1,59 @@
+/*Titulo principal*/
+.titulo
+{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgba(0, 255, 128, 0.534);
+}
+
+/*Formatação aplicada nos titulos e subtitulos*/
+h2
+{
+    background-color: seagreen;
+    font-family: "Lucida Console", sans-serif;
+}
+/*Formatação aplicada em todo o conteudo*/
+header, section, footer
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Formatação texto itálico em "Contato" */
+.contatos
+{
+    font-style: italic;
+}
+/*Background de toda a página*/
+
+.bg
+{
+    border: 30px solid rgb(87, 87, 87);
+    text-align: center;
+    background-color: rgb(206, 206, 206)
+}
+/*Imagem superior*/
+
+.hotelup 
+{
+    border: 5px solid black;
+    width: 900px;
+    height: 500px;
+    text-align: center;
+    margin-top: 12px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 12px;
+}
+/*Imagem inferior*/
+
+.randomimg 
+{
+    border: 5px solid black;
+    width: 900px;
+    height: 500px;
+    text-align: center;
+    margin-top: 12px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 12px;
+}
